@@ -1,4 +1,4 @@
-# Simple Password changer Virus for Windows :imp::computer:
+# Simple Password changer Virus for Windows :smiling_imp::computer:
 Hi everybody :wave:
 
 Hope you doing well :blush:
@@ -10,7 +10,7 @@ This `Python` script will change your windows password to a **random** one then 
 Windows
 
 ## Requirements :clipboard::heavy_check_mark:
-no library installation is needed just run...enjoy 😆
+no library installation is needed just run...enjoy :slightly_smiling_face:
 ```
 python main.py
 ```
