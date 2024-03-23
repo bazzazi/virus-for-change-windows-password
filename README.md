@@ -10,7 +10,7 @@ This `Python` script will change your windows password to a **random** one then 
 Windows
 
 ## Requirements :clipboard::heavy_check_mark:
-no library installation is needed just run...enjoy :slightly_smiling_face:
+No library installation is needed just run...enjoy :slightly_smiling_face:
 ```
 python main.py
 ```
